@@ -1,5 +1,5 @@
 # Store Item Demand Forecasting Project
-
+Data: https://www.kaggle.com/c/demand-forecasting-kernels-only/data?select=train.csv
 - pandas, numpy, matplotlib, plotly, sklearn, tensorflow, keras
 
 Use Keras (TensorFlow) to implement LSTM (Long Short-term Memory)
