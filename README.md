@@ -20,3 +20,4 @@ To model our forecast easier and more accurate, the transformations below are ne
 
 First off, how do we check if the data is not stationary? Let’s plot it and see:
 
+![alt text](images/Monthly_Sales.png)
